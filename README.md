@@ -1,5 +1,5 @@
-## Name: Sushil Shiva R
-## Reg No : 212224250017
+## Name: Tamizh Tharanya V
+## Reg No : 212224250018
 # Aim:
 To measure energy using Single Phase Energy Meter
 
